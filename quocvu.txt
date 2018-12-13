@@ -1,4 +1,8 @@
 Vu dep trai boby 6 muoi.
+<<<<<<< HEAD
 i love you
 so much
 and forever
+=======
+i love you
+>>>>>>> parent of 72ab2fb...  pull quocvu.txt
